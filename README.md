@@ -9,6 +9,7 @@
 - I like to have a continuous learning, always challenging myself and learning interesting things. The desire to evolve feeds me in pursuit of many interests, hobbies, fields of study and enterprises. I am a fast learner, able to acquire new skills and reconcile different projects and functions with relative facility.
 
 ![mesquita09 github stats](https://github-readme-stats.vercel.app/api?username=mesquita09&bg_color=fafafa&hide_border=true&line_height=25&title_color=0c0c0d&text_color=141414&hide=["issues","prs"])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mesquita09&layout=compact)](https://github.com/mesquita09/github-readme-stats)
 
 <!--
 **mesquita09/mesquita09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
