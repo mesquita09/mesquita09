@@ -4,7 +4,7 @@
 [![Linkedin: adelsonmesquita](https://img.shields.io/badge/-adelsonmesquita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adelsonmesquita/)](https://www.linkedin.com/in/adelsonmesquita/)
 [![GitHub mesquita09](https://img.shields.io/github/followers/mesquita09?label=follow&style=social)](https://github.com/mesquita09)
 
-- I am passionate about technology and how it can transform society. I have a background in business with specialization in finance, however, I currently dedicate myself to learn programming, most recently javascript and linux ♥.
+- I am passionate about technology and how it can transform society. I have a background in business with specialization in finance, however, I currently dedicate myself to learn programming and software development.
 
 - I like to have a continuous learning, always challenging myself and learning interesting things. The desire to evolve feeds me in pursuit of many interests, hobbies, fields of study and enterprises. I am a fast learner, able to acquire new skills and reconcile different projects and functions with relative facility.
 
