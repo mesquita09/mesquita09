@@ -1,6 +1,5 @@
 ### Hi! I'm Adelson Mesquita 👋
 
-[![Twitter: Adelson Mesquita](https://img.shields.io/twitter/follow/iadelson?style=social)](https://twitter.com/iadelson)
 [![Linkedin: adelsonmesquita](https://img.shields.io/badge/-adelsonmesquita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adelsonmesquita/)](https://www.linkedin.com/in/adelsonmesquita/)
 [![GitHub mesquita09](https://img.shields.io/github/followers/mesquita09?label=follow&style=social)](https://github.com/mesquita09)
 
